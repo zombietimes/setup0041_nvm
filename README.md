@@ -27,7 +27,7 @@ npm and NVM supports to manage the application version.
 - [setup0020_ubuntu](https://github.com/zombietimes/setup0020_ubuntu)
 - [setup0030_loomNetwork](https://github.com/zombietimes/setup0030_loomNetwork)
 - [setup0041_nvm](https://github.com/zombietimes/setup0041_nvm) : Here!(the alternate)
--- [setup0040_nodeJs](https://github.com/zombietimes/setup0040_nodeJs) : Here!
+- [setup0040_nodeJs](https://github.com/zombietimes/setup0040_nodeJs) : Here!
 - [setup0050_truffle](https://github.com/zombietimes/setup0050_truffle)
 - [setup0060_openZeppelin](https://github.com/zombietimes/setup0060_openZeppelin)
 - [setup0070_ganache](https://github.com/zombietimes/setup0070_ganache)
